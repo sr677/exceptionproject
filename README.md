@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # example-java-exception
 Example Java project created via STS as Java Project, showing how to;
 - created Checked Exceptions (MyException1, MyException2, MyException1Child), 
@@ -6,3 +7,6 @@ Example Java project created via STS as Java Project, showing how to;
 - handled checked Exceptions thrown by called methods via either try/catch or throws (MyMain.useMethod1,2,3,4,5), 
 - checked Exception inheritance 
 - wrapped an Exception into another Exception
+=======
+# exceptionproject
+>>>>>>> branch 'master' of https://github.com/sr677/java-exception-silvanaromero.git
